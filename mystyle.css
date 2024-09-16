@@ -1,4 +1,4 @@
-body {width: 1024px;}
+body {width: 800px;}
 h1 {color: rgb(69, 24, 71);}
 h2 {color: rgb(69, 24, 71);}
 p {color: white;}
@@ -25,17 +25,17 @@ p {color: white;}
     float: left;
     height: 250px;
     margin-bottom: 25%;
-    margin-left: 15%;
+    margin-left: 10px;
 }
 #picture {
     float: left;
     height: 250px;
     margin-bottom: 25%;
-    margin-left: 18px;
+    margin-left: 50px;
 }
 #oozeball {
     float: right;
     height: 250px;
     margin-bottom: 25%;
-    margin-right: 15%;
+    margin-right: 10px;
 }
